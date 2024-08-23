@@ -1,25 +1,39 @@
 # ArashPirak👨‍💻Resizer
+
 Image Resizer App for Windows 64-bit
-Image Resizer App for Windows 64-bit
+
 Overview
+
 This Windows app allows users to resize images quickly and easily, making it ideal for preparing images for web use, emails, or projects. With support for popular formats like JPEG, PNG, BMP, and GIF, the app streamlines the resizing process for multiple images at once.
 
 Key Features
+
 Quick and Easy Resizing: Resize images to your desired dimensions with minimal effort.
+
 Batch Processing: Process multiple images simultaneously, saving you time and effort.
+
 Custom Output: Output images are renamed for easier identification.
+
 How It Works
+
 Users can select individual files or folders to resize. The resized images will be saved automatically, with custom naming to distinguish them from the originals.
 
 System Requirements
+
 OS: Windows 10 or later (64-bit)
+
 Installation
-Download the latest release from GitHub.
+
+Download the latest releas
+
+e from GitHub.
 Launch the app and start resizing your images.
 
 How It Works
+
 Choose Images/Folders: Select individual images or an entire folder using the "Choose Images" or "Choose Folder" buttons.
 Set Size: Enter the desired maximum image size (in KB) in the text box.
 Start Resizing: Click "Start Resizing" to resize the selected images. Resized images are saved with "_resized" in their filenames, while smaller images are copied without resizing.
 System Requirements
+
 OS: Windows 10 or later (64-bit)
