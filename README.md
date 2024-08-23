@@ -37,3 +37,6 @@ Start Resizing: Click "Start Resizing" to resize the selected images. Resized im
 System Requirements
 
 OS: Windows 10 or later (64-bit)
+
+For details on updates and changes in the latest version, check out the [releases page](https://github.com/yourusername/repository/releases).
+
