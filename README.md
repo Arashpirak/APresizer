@@ -29,11 +29,7 @@ Download the latest releas
 e from GitHub.
 Launch the app and start resizing your images.
 
-How It Works
 
-Choose Images/Folders: Select individual images or an entire folder using the "Choose Images" or "Choose Folder" buttons.
-Set Size: Enter the desired maximum image size (in KB) in the text box.
-Start Resizing: Click "Start Resizing" to resize the selected images. Resized images are saved with "_resized" in their filenames, while smaller images are copied without resizing.
 System Requirements
 
 OS: Windows 10 or later (64-bit)
