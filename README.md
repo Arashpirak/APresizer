@@ -1,27 +1,25 @@
-# ArashPirakResizer
+# ArashPirak👨‍💻Resizer
+Image Resizer App for Windows 64-bit
 Image Resizer App for Windows 64-bit
 Overview
-This Windows app allows users to resize images to their desired dimensions quickly and easily. Ideal for preparing images for web use, emails, or projects, the app supports popular formats like JPEG, PNG, BMP, and GIF.
+This Windows app allows users to resize images quickly and easily, making it ideal for preparing images for web use, emails, or projects. With support for popular formats like JPEG, PNG, BMP, and GIF, the app streamlines the resizing process for multiple images at once.
 
-Features
+Key Features
+Quick and Easy Resizing: Resize images to your desired dimensions with minimal effort.
+Batch Processing: Process multiple images simultaneously, saving you time and effort.
+Custom Output: Output images are renamed for easier identification.
+How It Works
+Users can select individual files or folders to resize. The resized images will be saved automatically, with custom naming to distinguish them from the originals.
 
-Easy-to-use Interface
-
-Customizable Resizing
-
-Batch Processing
-
-High-Quality Output
+System Requirements
+OS: Windows 10 or later (64-bit)
+Installation
+Download the latest release from GitHub.
+Launch the app and start resizing your images.
 
 How It Works
-
-Automatic Folder Creation: On the first run, the app creates two folders:
-
-input_images: Place images to be resized here.
-
-resized_images: Resized images will be saved here.
-
-Simple Workflow: Users only need to place their images in the input_images folder. The resized images will appear in the resized_images folder after processing.
-
+Choose Images/Folders: Select individual images or an entire folder using the "Choose Images" or "Choose Folder" buttons.
+Set Size: Enter the desired maximum image size (in KB) in the text box.
+Start Resizing: Click "Start Resizing" to resize the selected images. Resized images are saved with "_resized" in their filenames, while smaller images are copied without resizing.
 System Requirements
 OS: Windows 10 or later (64-bit)
