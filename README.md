@@ -20,7 +20,7 @@ Users can select individual files or folders to resize. The resized images will 
 
 System Requirements
 
-OS: Windows 10 or later (64-bit)
+OS: Windows 7 or later (64-bit)
 
 Installation
 
