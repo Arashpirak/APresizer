@@ -38,5 +38,6 @@ System Requirements
 
 OS: Windows 10 or later (64-bit)
 
-For details on updates and changes in the latest version, check out the [releases page]([(https://github.com/Arashpirak/APresizer/releases/tag/v24-Agu)]).
+For details on updates and changes in the latest version, check out the [releases page]((https://github.com/Arashpirak/APresizer/releases))
+
 
