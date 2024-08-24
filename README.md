@@ -29,11 +29,6 @@ Download the latest releas
 e from GitHub.
 Launch the app and start resizing your images.
 
-
-System Requirements
-
-OS: Windows 10 or later (64-bit)
-
 For details on updates and changes in the latest version, check out the [releases page]((https://github.com/Arashpirak/APresizer/releases))
 
 
