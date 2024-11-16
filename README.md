@@ -1,6 +1,8 @@
 # ArashPirak👨‍💻Resizer
 
 last version is APresizer-Nov.exe
+https://github.com/Arashpirak/APresizer/blob/5e74102cf91e7ea0087e02ce598b1e7d3969e464/APresizer.exe
+
 Image Resizer App for Windows 64-bit
 
 Overview
